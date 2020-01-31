@@ -1,0 +1,9 @@
+#include <stdio>
+
+public class Main {
+	public Main() {}
+	
+	public void test() {
+		System.out.println("test");
+	{
+{
